@@ -149,5 +149,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+     .apresentacao__links__navegacao {
+        padding: 21.5px;
+
+    }
 
 }
